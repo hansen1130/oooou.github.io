@@ -758,6 +758,10 @@
 }
 
 @media (max-width: 1620px) {
+    .oooou-page4-title {
+        font-size: 3rem;
+        line-height: 4rem;
+    }
     .oooou-page4-content {
         width: 500px;
     }
